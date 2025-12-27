@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import SteCroixView from '../views/SteCroixView.vue'
+import SteCroixView from '../views/SteCroix.vue'
 import MeteoSearchView from '../views/MeteoSearchView.vue'
 import AboutView from '../views/AboutView.vue'
 
